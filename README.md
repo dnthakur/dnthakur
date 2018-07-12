@@ -1,25 +1,9 @@
-# dnthakur.github.io
--<!DOCTYPE html>	
--<html>	
--<head>	
--	<title> Color Game </title>	
--	<link rel="stylesheet" type="text/css" href="check.css">	
--</head>	
--<body>	
--	<h1>WELCOME TO COLOUR GUESSING GAME	
--	<div>	
--	RGB	
--</div></h1>	
--	<span id="colorpick" ></span>	
--	<div id="container">	
--<div class="square">k</div>	
--<div class="square">k</div>	
--<div class="square">k</div>	
--<div class="square">k</div>	
--<div class="square">k</div>	
--<div class="square">k</div>	
--</div>	
--<button>click </button>	
--<button>push </button>	
--</body>	
--</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>vrk</title>
+</head>
+<body>
+<h1>hello!!!</h1>
+</body>
+</html>
